@@ -12,6 +12,10 @@ To Develop a python program to Plot a time series data (population/ market price
 5. Display the graph.
 # PROGRAM:
 ```
+Developed by: DODDA JAYASRI
+REGISTER NO: 212222240028
+```
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 data=pd.read_csv("Salesforcehistory.csv", nrows=100)
