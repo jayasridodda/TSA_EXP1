@@ -1,9 +1,10 @@
-# Ex.No: 01A PLOT A TIME SERIES DATA
+### Developed By: DODDA JAYASRI
+### Register No: 212222240028
 ###  Date: 
+# Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
-To Develop a python program to Plot a time series data (population/ market price of a commodity
-/temperature.
+To Develop a python program to Plot a time series data (Sales Force history)
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
@@ -11,10 +12,7 @@ To Develop a python program to Plot a time series data (population/ market price
 4. Plot the data according to need and can be altered monthly, or yearly.
 5. Display the graph.
 # PROGRAM:
-```
-Developed by: DODDA JAYASRI
-REGISTER NO: 212222240028
-```
+
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
